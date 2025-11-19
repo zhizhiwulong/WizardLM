@@ -246,3 +246,4 @@ The resources, including code, data, and model weights, associated with this pro
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nlpxucan/WizardLM&type=Timeline)](https://star-history.com/#nlpxucan/WizardLM&Timeline)
 
+Related project: [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
